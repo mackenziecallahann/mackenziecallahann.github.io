@@ -8,7 +8,7 @@ body {
   margin: 0;
 }
 header, footer {
-  background-color: #ffe8d6;
+  background-color: #ffafcc;
   text-align: left;
   font-family: 'Red Hat Display', sans-serif;
  color: #001219;
@@ -41,7 +41,7 @@ h2 {
   font-weight: 600;
   letter-spacing: 0.3px;
   text-align: left;
-  color: #ffe8d6;
+  color: #ffafcc;
   padding: 10px 0px 10px 10px;
 }
 
