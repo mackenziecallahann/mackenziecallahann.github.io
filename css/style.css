@@ -11,7 +11,7 @@ header, footer {
   background-color: #ffe8d6;
   text-align: left;
   font-family: 'Red Hat Display', sans-serif;
- color: #fff;
+ color: #001219;
  min-height: 100vh;
  display: flex;
 }
@@ -58,7 +58,7 @@ img {
 }
 
 .bio {
-  color: #ffffff;
+  color: #001219;
   font-size: 24px;
   font-family: 'Roboto', sans-serif;
 }
@@ -70,7 +70,7 @@ img {
 
 .myButton {
   border-radius: 28px;
-  border: 1px solid #ffffff;
+  border: 1px solid #001219;
   cursor: pointer;
   color: #001219;
   font-size: 20px;
