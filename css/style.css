@@ -37,7 +37,7 @@ h1 {
 }
 h2 {
   font-family: 'Red Hat Display', sans-serif;
-  font-size: 18px;
+  font-size: 25px;
   font-weight: 600;
   letter-spacing: 0.3px;
   text-align: left;
@@ -73,7 +73,7 @@ img {
   border: 1px solid #001219;
   cursor: pointer;
   color: #001219;
-  font-size: 20px;
+  font-size: 24px;
   padding: 16px 31px;
   text-decoration: none;
   margin: 1.69em auto;
@@ -95,7 +95,7 @@ img {
 
 .description {
   font-family: 'Roboto', sans-serif;
-  font-size: 16px;
+  font-size: 20px;
   font-weight: 300
   line-height: 1.29;
   letter-spacing: 0.1px;
@@ -112,7 +112,7 @@ img {
   footer div {
   height: 100%;
   font-family: 'Roboto', sans-serif;
-  font-size: 14px;
+  font-size: 16px;
   display: flex;
   align-content: center;
   padding: 10px 20px;
